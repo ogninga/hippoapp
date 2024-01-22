@@ -34,3 +34,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.env
+src/server.ts
+src/payload.config.ts
+src/next-utils.ts
+src/get-payload.ts
+tsconfig.server.json
+tsconfig.json
+nodemon.json
+tsconfig.json
